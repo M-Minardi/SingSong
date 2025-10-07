@@ -5,6 +5,7 @@ namespace SingSong.Tests;
 
 public class SingSongTests
 {
+
     [Fact]
     public void ShouldGenerateFirstVerse()
     {
